@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 Junior Front-End Developer | HTML, CSS, SCSS
---------------------------------------------
 
 Passionate about creating clean, responsive web interfaces using HTML, CSS, and SCSS. I focus on writing semantic markup and maintainable stylesheets while following modern best practices. Proficient in Flexbox, CSS Grid, and SCSS features like variables, mixins, and nesting. Eager to contribute to projects and grow my skills in a collaborative environment.
 

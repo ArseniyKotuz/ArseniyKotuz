@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arseniy Kotuz
 ======================================================================================================================================
 
-Junior Front-End Developer | HTML, CSS, SCSS
+Junior Front-End Developer | <strong>HTML, CSS, SCSS</strong>
 
 Passionate about creating clean, responsive web interfaces using HTML, CSS, and SCSS. I focus on writing semantic markup and maintainable stylesheets while following modern best practices. Proficient in Flexbox, CSS Grid, and SCSS features like variables, mixins, and nesting. Eager to contribute to projects and grow my skills in a collaborative environment.
 
-* 🌍  I'm based in Odesa, Ukraine📍
+<p style="font-size: 20px">* 🌍  I'm based in Odesa, Ukraine📍</p>
 * 🖥️  See my portfolio at [soon....](http://#)
 * ✉️  You can contact me at [arseniykotuz4work@gmail.com](mailto:arseniykotuz4work@gmail.com)
 * 🧠  I'm currently learning JS
